@@ -1,4 +1,4 @@
-# Vidhya Devkar - Data Scientist
+# Vidhya Devkar - Associate Data Scientist
 
 Welcome to my GitHub profile! I'm a Data Scientist with 4+ years of experience in the IT sector, including 2 years specializing in Data Science and 2 years in Web Development.
 Data Scientist with 2 years of experience in predictive modeling, data processing, data mining algorithms, computer vision, natural language processing, and hands-on experience with machine learning, deep learning, and transfer learning models. Here, you’ll find a collection of my projects and contributions.
@@ -16,21 +16,19 @@ Data Scientist with 2 years of experience in predictive modeling, data processin
 ## Skills
 - **Programming Languages**: Python, SQL, JavaScript
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
+- **Data Visualization**: Matplotlib, Seaborn
 - **Big Data Technologies**: Hadoop, Spark
 - **Web Development**: HTML, CSS, JavaScript, React.js
 - **Tools**: Git, Docker, Jupyter Notebooks, VS Code
 
 ## Experience
 
-- **Data Scientist at IFS**  
-  *Sep, 2022 – Present*  
-  Description of your role, key responsibilities, and notable achievements.
-
-- **Web Developer at IFS**  
-  *Feb, 2013 – Jan, 2015*  
-  Developed and maintained web applications using Codeigniter(PHP), Django, Flask.
-
+- ** Associate Data Scientist at IFS**  
+  *Sep, 2022 – Present*
+   Experienced Associate Data Scientist with over 3 years in the IT sector, including 2 years specializing in Data
+Science and 1 year in Web Development. I have expertise in machine learning, Deep learning and NLP,
+specializing in AI model development using Transformers, Generative AI models. Proficient in end-to-end
+deployment on Flask, Streamlit, Django delivering robust solutions at the forefront of technology.
 
 ## Contact
 
