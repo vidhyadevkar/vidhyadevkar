@@ -1,6 +1,6 @@
 # Vidhya Devkar - Associate Data Scientist
 
-Welcome to my GitHub profile! I'm a Data Scientist with 4+ years of experience in the IT sector, including 2 years specializing in Data Science and 2 years in Web Development.
+Welcome to my GitHub profile! I'm a Data Scientist with 3+ years of experience in the IT sector, including 2 years specializing in Data Science and 1 years in Web Development.
 Data Scientist with 2 years of experience in predictive modeling, data processing, data mining algorithms, computer vision, natural language processing, and hands-on experience with machine learning, deep learning, and transfer learning models. Here, you’ll find a collection of my projects and contributions.
 
 ## Table of Contents
