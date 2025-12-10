@@ -11,15 +11,15 @@ Data Engineer with 3 years of experience in predictive modeling, data processing
 - [Contact](#contact)
 
 ## About Me
- I'm a passionate Data Scientist with a background in IT and web development. My expertise spans across data analysis, predictive modeling, and deploying machine learning solutions. I love solving complex business problems by leveraging data and advanced algorithms.
+ I'm a passionate Data Engineer with a background in IT and web development. My expertise spans across data analysis, predictive modeling, and deploying machine learning solutions. I love solving complex business problems by leveraging data and advanced algorithms.
 
 ## Skills
-- **Programming Languages**: Python, SQL, JavaScript
+- **Programming Languages**: Python, SQL, JavaScript, .NET
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
 - **Data Visualization**: Matplotlib, Seaborn
 - **Big Data Technologies**: Hadoop, Spark
 - **Web Development**: HTML, CSS, JavaScript, React.js
-- **Tools**: Git, Docker, Jupyter Notebooks, VS Code
+- **Tools**: Git, Jupyter Notebooks, VS Code
 
 ## Experience
 
